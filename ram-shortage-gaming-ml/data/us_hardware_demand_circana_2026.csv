@@ -1,0 +1,6 @@
+month,measure,hardware_spend_musd,yoy_spend_pct,units_thousand,avg_price_paid_usd,note,data_type,source_url
+2025-06,hardware spending,1008,,,,derived: June 2026 $383M is -62% YoY; source also says about $1B,derived,https://insider-gaming.com/us-video-game-spending-fell-21-in-june-2026/
+2026-06,hardware spending,383,-62.0,,,drop reflects Switch 2 launch month in June 2025,reported,https://insider-gaming.com/us-video-game-spending-fell-21-in-june-2026/
+2026-07,hardware spending,282,-29.0,,,weakest July for console sales since 2020,reported,https://godisageek.com/2026/08/xbox-physical-game-sales-market-share/
+2025-08,hardware spending,312,,,476.0,prior-year comparison from Circana table; avg price paid $476,reported,https://gamesbeat.com/?p=336463
+2026-08,hardware spending,302,-3.0,559.0,541.0,"units -15% YoY, lowest August since 2013; avg price paid record $541",reported,https://gamesbeat.com/?p=336463

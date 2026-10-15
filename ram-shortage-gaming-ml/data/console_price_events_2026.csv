@@ -1,0 +1,7 @@
+product,region,effective_date,old_price_usd,new_price_usd,change_pct,note,confidence,source_url
+PlayStation 5 (disc),US,2026-04-02,549.99,649.99,18.2,announced by Sony 2026-03-27 per UK source,medium: 2 secondary sources agree; one source lists a different prior price,https://www.gizmogo.com/blog/gaming-console-prices-2026-sell-to-offset-higher-costs/
+PlayStation 5 (digital),US,2026-04-02,499.99,599.99,20.0,,medium: secondary sources,https://www.gizmogo.com/blog/gaming-console-prices-2026-sell-to-offset-higher-costs/
+"Xbox Series X (disc, 1TB)",US,2026-08-01,649.99,799.99,23.1,announced 2026-06-25,medium: multiple secondary sources,https://shattered.io/switch-2-price-increase-2026/
+"Xbox Series X (digital, 1TB)",US,2026-08-01,599.99,749.99,25.0,old price derived from stated +$150,medium: one secondary source,https://tech-insider.org/xbox-price-increase-799-2026/
+Xbox Series S (512GB),US,2026-08-01,,499.99,,stated as about +$100 (+25%); old price not stated,medium: one secondary source,https://tech-insider.org/console-price-increase-xbox-switch-2-2026/
+Nintendo Switch 2,US,2026-09-01,449.99,499.99,11.1,"Nintendo cited memory costs, tariffs, exchange rates",high: many sources agree,https://shattered.io/switch-2-price-increase-2026/

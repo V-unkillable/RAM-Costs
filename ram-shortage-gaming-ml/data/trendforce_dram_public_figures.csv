@@ -1,0 +1,11 @@
+quarter,segment,measure,low_pct_qoq,high_pct_qoq,figure_type,published,source_type,source_url
+1Q26,Conventional DRAM,contract price change,90,95,forecast,2026-02-02,TrendForce press release,https://www.trendforce.com/presscenter/news/20260202-12911.html
+1Q26,PC DRAM,contract price change,100,,forecast (">100%"),2026-02-02,TrendForce press release,https://www.trendforce.com/presscenter/news/20260202-12911.html
+1Q26,Conventional DRAM,contract price change,93,98,survey result,2026-06-01,TrendForce press release,https://www.trendforce.com/presscenter/news/20260601-13070.html
+2Q26,Conventional DRAM,contract price change,58,63,forecast,2026-06-01,TrendForce press release,https://www.trendforce.com/presscenter/news/20260601-13070.html
+3Q26,Conventional DRAM,contract price change,13,18,forecast,2026-07-03,TrendForce press release,https://www.trendforce.com/presscenter/news/20260703-13134.html
+3Q26,Server DRAM,contract price change,13,18,forecast,2026-07-09,TrendForce press release,https://www.trendforce.com/presscenter/news/20260709-13140.html
+3Q26,PC DRAM,contract price change,15,20,forecast (revised from 8-13),2026-06-30,secondary news report,https://www.gate.com/news/detail/trendforce-raises-q3-q4-2026-dram-contract-price-forecasts-to-15-20-and-3-8-22224554
+4Q26,PC DRAM,contract price change,3,8,forecast (superseded),2026-06-30,secondary news report,https://www.gate.com/news/detail/trendforce-raises-q3-q4-2026-dram-contract-price-forecasts-to-15-20-and-3-8-22224554
+4Q26,Conventional DRAM,contract price change,10,15,forecast,2026-09-30,TrendForce press release,https://www.trendforce.com/presscenter/news/20260930-13258.html
+4Q26,PC DRAM,contract price change,13,18,forecast (revised),2026-10-01,secondary news report,https://pcmasterinsider.com/pc-dram-contract-price-forecast-q4-2026/
